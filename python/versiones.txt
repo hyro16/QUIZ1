@@ -1,0 +1,9 @@
+Python 0.9 - 20 de febrero de 1991 
+
+Python 1.0 - Enero de 1994
+
+Python 2.0 - 16 de octubre de 2000
+
+Python 3.0 - 3 de diciembre de 2008
+
+
